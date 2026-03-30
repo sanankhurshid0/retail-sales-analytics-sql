@@ -90,21 +90,21 @@ categories ──< products ──< order_items >── orders >── customers
 ## 📸 Analytics Results
 
 ### Monthly Revenue Trend
-![Monthly Revenue](screenshots/monthly_revenue.png)
+![Monthly Revenue](Screenshots/monthly_revenue.png)
 
 Shows how revenue changes month-to-month across the 2-year dataset.
 
 ---
 
 ### Customer RFM Analysis
-![RFM Analysis](screenshots/rfm_analysis.png)
+![RFM Analysis](Screenshots/rfm_analysis.png)
 
 Identifies the most valuable customers based on **frequency and total spending**.
 
 ---
 
 ### Store Revenue Ranking
-![Store Ranking](screenshots/store_ranking.png)
+![Store Ranking](Screenshots/store_ranking.png)
 
 Ranks stores by total revenue generated from completed orders.
 
